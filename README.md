@@ -1,4 +1,4 @@
-# testes-aulas
+# filtra-tweets
 
 > A Vue.js project for filtering tweets
 
