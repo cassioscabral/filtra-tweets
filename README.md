@@ -8,6 +8,9 @@
 # install dependencies
 npm install
 
+# add tweets.json into src/data folder
+# tweets.json should be an array of tweets objects
+
 # serve with hot reload at localhost:8080
 npm run dev
 
